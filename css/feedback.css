@@ -1,0 +1,104 @@
+                                                                        body {
+                                                                            margin: 0;
+                                                                        }
+                                                                        
+                                                                        .maindivision {
+                                                                            width: 700px;
+                                                                            height: 700px;
+                                                                            margin: auto;
+                                                                            margin-top: 100px;
+                                                                            text-align: center;
+                                                                            font-family: 'Google Sans Display', Roboto, Arial, sans-serif;
+                                                                        }
+                                                                        
+                                                                        .maindivision h1 {
+                                                                            font-weight: lighter;
+                                                                        }
+                                                                        
+                                                                        .maindivision button {
+                                                                            width: 180px;
+                                                                            height: 30px;
+                                                                            background-color: blue;
+                                                                            color: white;
+                                                                            border-radius: 5px;
+                                                                            border: none;
+                                                                        }
+                                                                        
+                                                                        .ratediv {
+                                                                            width: 300px;
+                                                                            height: 130px;
+                                                                            border: 1px solid lightgray;
+                                                                            margin: auto;
+                                                                            margin-top: 20px;
+                                                                            border-radius: 7px;
+                                                                            box-shadow: 1px 1px 5px lightgray;
+                                                                        }
+                                                                        
+                                                                        .maindivision .ratediv h2 {
+                                                                            font-size: 13px;
+                                                                            color: gray;
+                                                                            font-family: inherit;
+                                                                            margin-top: 25px;
+                                                                        }
+                                                                        
+                                                                        .maindivision .ratediv i {
+                                                                            color: gray;
+                                                                            font-size: 25px;
+                                                                            margin: 10px;
+                                                                        }
+                                                                        
+                                                                        .maindivision .ratediv .ratingtext {
+                                                                            text-align: left;
+                                                                            margin-top: 0px;
+                                                                            margin: 0px 30px 0px 30px;
+                                                                        }
+                                                                        
+                                                                        .maindivision .ratediv .ratingtext p {
+                                                                            margin: 0;
+                                                                            font-size: 13px;
+                                                                            margin: 0;
+                                                                            color: var(--gm-color-caption, #5f63688a);
+                                                                        }
+                                                                        
+                                                                        .maindivision .ratediv .ratingtext span {
+                                                                            float: right;
+                                                                        }
+                                                                        
+                                                                        .messagediv {
+                                                                            width: 300px;
+                                                                            height: 120px;
+                                                                            border: 1px solid lightgray;
+                                                                            margin-top: 40px;
+                                                                            border-radius: 5px;
+                                                                            box-shadow: 1px 1px 5px lightgray;
+                                                                        }
+                                                                        
+                                                                        .messagediv img {
+                                                                            height: 100px;
+                                                                            width: 100px;
+                                                                            float: left;
+                                                                            background-color: white;
+                                                                            image-rendering: pixelated;
+                                                                            margin-right: 10px;
+                                                                        }
+                                                                        
+                                                                        .messagediv h3 {
+                                                                            margin: 0;
+                                                                            font-size: 15px;
+                                                                            text-align: left;
+                                                                            margin: 15px 0px 5px 0px;
+                                                                        }
+                                                                        
+                                                                        .messagediv p {
+                                                                            color: var(--gm-color-caption, #5f6368);
+                                                                            margin: 0px;
+                                                                            font-size: 13px;
+                                                                            text-align: left;
+                                                                        }
+                                                                        
+                                                                        .messagediv span {
+                                                                            float: right;
+                                                                            color: #08c7c7;
+                                                                            font-size: 13px;
+                                                                            margin: 10px 20px 0px 0px;
+                                                                        }
